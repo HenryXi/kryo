@@ -1,9 +1,11 @@
-# Temporary Files
-*~
-.*.swp
-.DS_STORE
 *.iml
+*.ipr
+*.iws
+.idea
+*/*.log
+*/target/
+*.DS_Store
+*.classpath
+*.settings
+*.project
 
-bin/
-target/
-.idea/
